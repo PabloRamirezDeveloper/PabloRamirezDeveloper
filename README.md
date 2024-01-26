@@ -1,10 +1,10 @@
 # ¡Hola, soy Pablo! 👋
 
-Ur programador en busca de oportunidades para crecer. Aunque mi trayectoria está en sus primeras etapas, mi deseo de aprender es mi mejor código fuente.
+Un programador en busca de oportunidades para crecer. Aunque mi trayectoria está en sus primeras etapas, mi deseo de aprender es mi mejor código fuente.
 
 ## 👨‍💻 Sobre Mí
 
-- 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma en Linkia FP.
+- 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma.
 - 📘 Cursos adicionales: JavaScript, React y React Native en Udemy.
 
 ## 🚀 Habilidades
@@ -16,28 +16,18 @@ Ur programador en busca de oportunidades para crecer. Aunque mi trayectoria est�
 - Bases de Datos: Relacionales, SQL.
 - Lenguaje de Programación: Java.
 
-## 🌱 Buscando Oportunidades
+## 🛠️ Proyectos Destacados
 
-Estoy actualmente en la búsqueda de mi primer empleo como programador, ya sea en el frontend o backend. Mi formación sólida en Desarrollo de Aplicaciones Multiplataforma, combinada con mis conocimientos en JavaScript, React y React Native, me preparan para enfrentar nuevos desafíos.
+### [Tienda Online](https://tiendaonlinepablodev.netlify.app/)
+Una aplicación que simula una tienda online, construida con React y diseñada para proporcionar una experiencia de compra interactiva. ¡Explora el código [aquí](https://github.com/PabloRamirezDeveloper/TiendaOnline)!
+
+### [Programa Tareas](https://programatareas.netlify.app/)
+Una aplicación para llevar el seguimiento de tareas pendientes en una empresa, desarrollada con React. Mejora la eficiencia en la gestión de proyectos y tareas. Echa un vistazo al repositorio [aquí](https://github.com/PabloRamirezDeveloper/programa_tareas_react)!
 
 ## 📫 Cómo Contactarme
 
 - LinkedIn: [Pablo Ramírez](https://www.linkedin.com/in/pablo-ramirez-bbb79a2b0)
 - Correo Electrónico: [pabloramirezdeveloper@gmail.com](mailto:pabloramirezdeveloper@gmail.com)
 
-¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades que el mundo del desarrollo tiene para ofrecer y ansioso por contribuir a proyectos innovadores. Si tienes alguna pregunta o propuesta, no dudes en contactarme. 🚀
+¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades que el desarrollo de software tiene para ofrecer. Si tienes alguna pregunta, propuesta o simplemente quieres charlar sobre código, ¡no dudes en ponerte en contacto! 🚀
 
-<!--
-**PabloRamirezDeveloper/PabloRamirezDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
