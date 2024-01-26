@@ -22,7 +22,7 @@ Un programador en busca de oportunidades para crecer. Aunque mi trayectoria est�
 Una aplicación que simula una tienda online, construida con HTML/CSS/JavaScript y diseñada para proporcionar una experiencia de compra interactiva. ¡Explora el código [aquí](https://github.com/PabloRamirezDeveloper/TiendaOnline)!
 
 ### [Programa Tareas](https://programatareas.netlify.app/)
-Una aplicación para llevar el seguimiento de tareas pendientes en una empresa, desarrollada con React y Tailwind CSS. Mejora la eficiencia en la gestión de proyectos y tareas. Echa un vistazo al repositorio [aquí](https://github.com/PabloRamirezDeveloper/programa_tareas_react)!
+Una aplicación para llevar el seguimiento de tareas pendientes en una empresa, desarrollada con React y Tailwind CSS. Mejora la eficiencia en la gestión de tareas que aún estan por hacer. Echa un vistazo al repositorio [aquí](https://github.com/PabloRamirezDeveloper/programa_tareas_react)!
 
 ## 📫 Cómo Contactarme
 
