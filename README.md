@@ -24,7 +24,8 @@ Una aplicación que simula una tienda online, construida con React y diseñada p
 Una aplicación para llevar el seguimiento de tareas pendientes en una empresa, desarrollada con React. Mejora la eficiencia en la gestión de proyectos y tareas.
 
 ### [Notas React Native](https://github.com/PabloRamirezDeveloper/notas_react_native/raw/main/notasApp.apk) | [Repositorio en GitHub](https://github.com/PabloRamirezDeveloper/notas_react_native)
-Una aplicación móvil para Android, construida con React Native que simula un sencillo Block de Notas. 
+Una aplicación móvil para Android, construida con React Native que simula un sencillo Block de Notas. Puedes descargar la APK directamente [aquí](https://github.com/PabloRamirezDeveloper/notas_react_native/raw/main/notasApp.apk).
+
 
 ## 📫 Cómo Contactarme
 
